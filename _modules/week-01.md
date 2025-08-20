@@ -1,23 +1,23 @@
 ---
-title: Introduction to Java
+title: 第一章 概率论的基本概念
 ---
 
-Sep 28
-: [Java & Git](#)
-  : [1.1](#)
+**日期**
+: **章节**
+  : **作业（第一章习题）**
 
-Sep 29
-: **Section**{: .label .label-purple }[Intro to Java](#)
-  : [Solution](#)
 
-Sep 30
-: [Variables & Objects](#)
-  : [1.2](#), [2.1](#)
+Sep 02
+: 随机试验、样本空间与事件 [**课件**]({{ site.baseurl }}/assets/docs/Chap1-Lecture.pdf){: .label .label-purple }, [**要点**]({{ site.baseurl }}/assets/docs/Chap1-Note.pdf){: .label .label-purple }
+  : **HW 1**{: .label .label-green }: 2, 3(2), 6, 10, 12, 14(1), 18, 22, 23, 26, 29, 38, 40）
 
-Oct 1
-: **Lab**{: .label .label-purple } [Intro to Java](#)
+Sep 09
+: 概率、古典概型、条件概率 [**课件**]({{ site.baseurl }}/assets/docs/Chap1-Lecture.pdf){: .label .label-purple }
+  : **HW 1**{: .label .label-green }: 2, 3(2), 6, 10, 12, 14(1), 18, 22, 23, 26, 29, 38, 40）
 
-Oct 2
-: [Tracing, IntLists, & Recursion](#)
-  : [2.1](#)
-: **HW 1 due**{: .label .label-red }
+Sep 16
+: 独立性、小结与复习 [**要点**]({{ site.baseurl }}/assets/docs/Chap1-Note.pdf){: .label .label-purple }
+  : **HW 1**{: .label .label-green }: 2, 3(2), 6, 10, 12, 14(1), 18, 22, 23, 26, 29, 38, 40）
+
+
+

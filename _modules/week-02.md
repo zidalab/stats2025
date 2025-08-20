@@ -1,23 +1,22 @@
 ---
-title: Basic Data Structures
+title: 第二章 随机变量及其分布
 ---
+**日期**
+: **章节**
+  : **作业（第二章习题）**
 
-Oct 5
-: [Linked Lists & Encapsulation](#)
-  : [3.1](#), [2.2](#), [2.3](#)
+Sep 23
+: **随机变量、分布律** [**课件**]({{ site.baseurl }}/assets/docs/Chap2-Lecture.pdf){: .label .label-purple }
+  : **HW 2**{: .label .label-green }: 第二章习题（3, 9, 12, 14, 19, 23, 26, 30, 34, 37）
+: **HW 1 due**{: .label .label-red }
 
-Oct 6
-: **Section**{: .label .label-purple }[Linked Lists](#)
-  : [Solution](#)
+Sep 30
+: **分布函数、连续型随机变量与概率密度** [**课件**]({{ site.baseurl }}/assets/docs/Chap2-Lecture.pdf){: .label .label-purple }
+  : **HW 2**{: .label .label-green }: 第二章习题（3, 9, 12, 14, 19, 23, 26, 30, 34, 37）
 
-Oct 7
-: [Resizing Arrays](#)
-  : [2.4](#), [2.5](#)
+Oct 07
+: **随机变量的函数分布，小结** [**要点**]({{ site.baseurl }}/assets/docs/Chap2-Note.pdf){: .label .label-purple }
+  : **HW 2**{: .label .label-green }: 第二章习题（3, 9, 12, 14, 19, 23, 26, 30, 34, 37）
 
-Oct 8
-: **Lab**{: .label .label-purple } [Resizing Arrays](#)
 
-Oct 9
-: [Runtime Analysis](#)
-  : [8.1](#), [8.2](#), [8.3](#), [8.4](#)
-: **HW 2 due**{: .label .label-red }
+
