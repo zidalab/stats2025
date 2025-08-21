@@ -1,10 +1,10 @@
 ---
 name: 杨婧文
 role: Teaching Assistant
-email: me@example.com
+email: 2907899609@qq.com
 website: 
 photo: jingwen.jpg
 ---
 
-生物医学工程学院大三学生。热爱概率论和生医工！
+生物医学工程学院大三学生。
 
